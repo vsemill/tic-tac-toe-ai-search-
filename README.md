@@ -21,7 +21,7 @@ Both versions include:
 ### 2. Informed Search (Minimax)
 - Evaluates game states using a score function.
 - Chooses moves that maximize AI's chances and minimize the player's chances.
-- Plays perfectly if allowed enough time.
+- Plays perfectly if allowed enough time..
 
 ---
 
