@@ -29,7 +29,7 @@ Both versions include:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe-search.git
+git clone https://github.com/vsemil/tic-tac-toe-ai-search.git
 cd tic-tac-toe-search
 ```
 
