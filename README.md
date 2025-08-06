@@ -29,7 +29,7 @@ Both versions include:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vsemil/tic-tac-toe-ai-search.git
+git clone https://github.com/vsemill/tic-tac-toe-ai-search-.git
 cd tic-tac-toe-search
 ```
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License – feel free to use and modify i
 ---
 
 ## ✨ Author
-- Your Name ([@yourgithub](https://github.com/yourgithub))
+- Emil v Santhosh ([@vsemill](https://github.com/vsemill))
